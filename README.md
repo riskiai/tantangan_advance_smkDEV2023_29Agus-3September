@@ -14,9 +14,9 @@ Dalam Soal Tantangan Tersebut saya harus membuat program yang mengidentifikasi b
 
 Berikut Langkah - langkah untuk menyelesaikan masahalah ini :
 
-1.Buatlah Fungsi untuk memeriksa apakah sebuah angka adalah bilangan prima
-2.Tentukan rentang yang sudah diberikan dari 25 hingga 50
-3. Kemudian lakukan perulangan agar outputnya sesuai dengan soal tantangan nya tersebut.
+1.Buatlah Fungsi untuk memeriksa apakah sebuah angka adalah bilangan prima<br>
+2.Tentukan rentang yang sudah diberikan dari 25 hingga 50<br>
+3.Kemudian lakukan perulangan agar outputnya sesuai dengan soal tantangan nya tersebut.
 
 
 CODE PEMECAHAN MASALAH :
