@@ -1,6 +1,6 @@
 # TANTANGAN ADVANCE SMKDEV
 
-NAMA : RISKI AHMAD ILHAM
+NAMA : RISKI AHMAD ILHAM\n
 KOTA ASAL : INDRAMAYU
 
 Saya Menggunakan Bahasa Pemograman Javascript
