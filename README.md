@@ -23,4 +23,4 @@ CODE PEMECAHAN MASALAH :
 <img src="https://github.com/riskiai/tantangan_advance_smkDEV2023_29Agus-3September/blob/main/image/CodeTantangan.png?raw=true" alt="Tantangan" width="800" height="500">
 
 HASIL CODE PEMECAHAN MASALAH YANG SOLVED :
-<img src="https://github.com/riskiai/tantangan_advance_smkDEV2023_29Agus-3September/blob/main/image/CodeTantangan.png?raw=true" alt="Tantangan" width="800" height="500">
+<img src="https://github.com/riskiai/tantangan_advance_smkDEV2023_29Agus-3September/blob/main/image/HasilTantangan.png?raw=true" alt="Tantangan" width="800" height="500">
